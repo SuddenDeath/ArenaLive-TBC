@@ -58,6 +58,7 @@ ArenaLiveCore.spellDB = {
 				[45334] = "root",			-- Feral Charge (root)
 				[16689] = "defCD", 			-- Nature's Grasp
 				[29166] = "usefulBuffs", 	-- Innervate
+				[9634] = "usefulBuffs", 		-- Dire Bear Form
 
 				-- Hunter
 				[5384] = "defCD",			-- Feign Death
@@ -131,7 +132,8 @@ ArenaLiveCore.spellDB = {
 				[17928] = "crowdControl",	-- Howl of Terror
 				[5782] = "crowdControl",	-- Fear
 				[6358] = "crowdControl",	-- Seduce (Pet-Charm)
-				[30405] = "usefulDebuffs",	-- Unstable Affliction		
+				[30405] = "usefulDebuffs",	-- Unstable Affliction
+				[30300] = "defCD",			-- Nether Protection
 				
 				-- Warrior
 				[871] = "defCD",			-- Shield Wall
